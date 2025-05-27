@@ -118,4 +118,6 @@ You can run:
 chmod -R 775 storage bootstrap/cache
 ```
 
+The postman API collection file is included
+
 ### The whole application can also be run with Nginx, Docker, and other methods. However, since no instructions are provided for those setups, they are not included here.
